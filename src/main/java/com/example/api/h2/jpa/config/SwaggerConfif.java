@@ -35,9 +35,9 @@ public class SwaggerConfif {
                 "API que é uma lista de afazeres com CRUD simples",
                 "1.0",
                 "terms of service",
-                new Contact("Danilo P. Lima", "www.github.com", "danilo.pelozone@gmail.com"),
+                new Contact("Danilo P. Lima", "https://github.com/daniloplima", "danilo.pelozone@gmail.com"),
                 "Apache License Version 2.0",
-                "hhtps://apache.org.licesen.html", new ArrayList<VendorExtension>()
+                "https://apache.org.licesen.html", new ArrayList<VendorExtension>()
         );
         return apiInfo;
     }
